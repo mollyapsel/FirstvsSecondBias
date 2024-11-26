@@ -1,0 +1,5 @@
+Done preprocessing
+Total words:  84123935
+Unique words:  917634
+(0.3350621376885313, 0.289, 1.668664909450366, 0.0)
+WEAT9 complete

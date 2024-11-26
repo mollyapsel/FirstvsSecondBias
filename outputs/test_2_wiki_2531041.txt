@@ -1,0 +1,9 @@
+WEAT2: 
+ X: {'bell', 'bongo', 'violin', 'clarinet', 'saxophone', 'bagpipe', 'guitar', 'lute', 'harpsichord', 'drum', 'trombone', 'harmonica', 'flute', 'piano', 'mandolin', 'banjo', 'fiddle', 'trumpet', 'bassoon', 'harp', 'tuba', 'oboe', 'horn', 'viola', 'cello'}
+ Y: {'slingshot', 'tank', 'mace', 'spear', 'grenade', 'bomb', 'harpoon', 'knife', 'club', 'dynamite', 'firearm', 'blade', 'sword', 'teargas', 'hatchet', 'shotgun', 'axe', 'arrow', 'cannon', 'dagger', 'whip', 'missile', 'gun', 'rifle', 'pistol'}
+ A: {'friend', 'paradise', 'honest', 'loyal', 'caress', 'happy', 'cheer', 'honor', 'lucky', 'heaven', 'love', 'diamond', 'pleasure', 'sunrise', 'vacation', 'freedom', 'gift', 'miracle', 'family', 'rainbow', 'laughter', 'health', 'gentle', 'diploma', 'peace'}
+ B: {'poison', 'stink', 'pollute', 'prison', 'vomit', 'filth', 'accident', 'jail', 'crash', 'hatred', 'death', 'poverty', 'cancer', 'assault', 'disaster', 'divorce', 'sickness', 'murder', 'ugly', 'tragedy', 'agony', 'grief', 'abuse', 'rotten', 'kill'}
+
+
+(1.6206401247560396, 0.0, 1.1616207983754125, 0.0)
+WEAT2 complete

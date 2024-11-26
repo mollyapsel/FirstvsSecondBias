@@ -1,0 +1,11 @@
+OOV: - WEAT9
+OOV: always WEAT9
+WEAT9: 
+ X: {'sad', 'gloomy', 'hopeless', 'miserable', 'tearful', 'depress'}
+ Y: {'illness', 'influenza', 'cancer', 'virus', 'disease', 'sick'}
+ A: {'occasional', 'unstable', 'variable', 'short', 'fleeting', 'term', 'brief'}
+ B: {'persistent', 'prolong', 'chronic', 'stable', 'forever', 'constant'}
+
+
+(0.6018629054647702, 0.185, 1.5475777055953022, 0.0)
+WEAT9 complete

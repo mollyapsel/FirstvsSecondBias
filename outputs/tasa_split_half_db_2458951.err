@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/geode2/home/u060/mapsel/BigRed200/SecondYearProject/SecondYearProject/first_second_bias.py", line 342, in <module>
+    stop
+NameError: name 'stop' is not defined

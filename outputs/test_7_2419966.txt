@@ -1,0 +1,9 @@
+WEAT7: 
+ X: {'geometry', 'equation', 'addition', 'computation', 'calculus', 'math', 'number', 'algebra'}
+ Y: {'novel', 'poetry', 'drama', 'symphony', 'literature', 'dance', 'art', 'sculpture'}
+ A: {'man', 'he', 'his', 'brother', 'son', 'boy', 'male'}
+ B: {'her', 'daughter', 'woman', 'female', 'she', 'girl', 'sister'}
+
+
+(0.8440334722614259, 0.058, 0.8204222700430827, 0.062)
+WEAT7 complete

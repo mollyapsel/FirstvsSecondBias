@@ -1,0 +1,9 @@
+WEAT9: 
+ X: {'sad', 'hopeless', 'gloomy', 'depress', 'tearful', 'miserable'}
+ Y: {'sick', 'virus', 'influenza', 'illness', 'disease', 'cancer'}
+ A: {'variable', 'impermanent', 'shortterm', 'occasional', 'unstable', 'brief', 'fleeting'}
+ B: {'chronic', 'forever', 'prolong', 'stable', 'always', 'persistent', 'constant'}
+
+
+(1.0181552053908693, 0.037, 1.6241707997148038, 0.002)
+WEAT9 complete

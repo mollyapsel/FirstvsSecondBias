@@ -1,0 +1,9 @@
+WEAT1: 
+ X: {'daffodil', 'magnolia', 'pansy', 'poppy', 'zinnia', 'azalea', 'crocus', 'lilac', 'buttercup', 'tulip', 'clover', 'aster', 'iris', 'gladiola', 'carnation', 'rise', 'orchid', 'bluebell', 'violet', 'hyacinth', 'daisy', 'marigold', 'lily', 'petunia', 'peony'}
+ Y: {'moth', 'caterpillar', 'tarantula', 'locust', 'hornet', 'fly', 'dragonfly', 'beetle', 'spider', 'gnat', 'mosquito', 'termite', 'horsefly', 'bedbug', 'weevil', 'maggot', 'flea', 'cricket', 'centipede', 'wasp', 'blackfly', 'bee', 'roach', 'cockroach', 'ant'}
+ A: {'sunrise', 'happy', 'cheer', 'freedom', 'rainbow', 'laughter', 'vacation', 'peace', 'lucky', 'love', 'family', 'heaven', 'loyal', 'friend', 'paradise', 'diploma', 'caress', 'diamond', 'pleasure', 'gift', 'miracle', 'honor', 'health', 'gentle', 'honest'}
+ B: {'abuse', 'prison', 'disaster', 'grief', 'vomit', 'accident', 'filth', 'agony', 'ugly', 'kill', 'crash', 'jail', 'hatred', 'cancer', 'assault', 'poison', 'rotten', 'pollute', 'death', 'divorce', 'tragedy', 'murder', 'poverty', 'sickness', 'stink'}
+
+
+(0.8698413023942757, 0.0, 0.5790931302959351, 0.012)
+WEAT1 complete

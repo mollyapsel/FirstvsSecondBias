@@ -1,0 +1,10 @@
+OOV: shaniqua WEAT3
+WEAT3: 
+ X: {'adam', 'jonathan', 'justin', 'nancy', 'matthew', 'melanie', 'colleen', 'ryan', 'jack', 'megan', 'alan', 'peter', 'andrew', 'ellen', 'courtney', 'stephen', 'greg', 'josh', 'amanda', 'lauren', 'rachel', 'katie', 'brad', 'paul', 'frank', 'heather', 'emily', 'harry', 'stephanie', 'kristin', 'roger'}
+ Y: {'theo', 'latisha', 'tia', 'jerome', 'tanisha', 'lionel', 'malik', 'lamont', 'alphonse', 'darnell', 'yolanda', 'jamel', 'malika', 'marcellus', 'torrance', 'deion', 'lakisha', 'latoya', 'nichelle', 'tyree', 'wardell', 'shereen', 'lavon', 'terrence', 'alonzo', 'jasmine', 'tyrone', 'lamar', 'yvette', 'ebony', 'leroy'}
+ A: {'gift', 'miracle', 'cheer', 'family', 'health', 'paradise', 'peace', 'lucky', 'pleasure', 'diamond', 'honest', 'caress', 'gentle', 'diploma', 'happy', 'loyal', 'heaven', 'honor', 'sunrise', 'love', 'rainbow', 'vacation', 'laughter', 'freedom', 'friend'}
+ B: {'death', 'grief', 'tragedy', 'pollute', 'poison', 'abuse', 'stink', 'assault', 'divorce', 'jail', 'rotten', 'cancer', 'filth', 'vomit', 'bomb', 'sickness', 'accident', 'evil', 'hatred', 'murder', 'ugly', 'poverty', 'kill', 'disaster', 'crash'}
+
+
+(0.7377832085002618, 0.0, 1.0019280833260558, 0.0)
+WEAT3 complete

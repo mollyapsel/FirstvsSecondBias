@@ -1,0 +1,15 @@
+Done preprocessing
+Total words in part 1:  2581572
+Unique words in part 1:  57004
+Total words in part 2:  2582369
+Unique words in part 2:  57132
+OOV: azalea WEAT1
+OOV: peony WEAT1
+OOV: gladiola WEAT1
+OOV: bedbug WEAT1
+x: 22
+y: 24
+['bedbug', 'blackfly']
+24
+23
+False

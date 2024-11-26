@@ -1,0 +1,22 @@
+OOV: - WEAT3
+OOV: - WEAT3
+OOV: rasaan WEAT3
+OOV: everol WEAT3
+OOV: terryl WEAT3
+OOV: aiesha WEAT3
+OOV: temeka WEAT3
+OOV: shaniqua WEAT3
+OOV: tameisha WEAT3
+OOV: teretha WEAT3
+OOV: tashika WEAT3
+OOV: lashandra WEAT3
+OOV: shavonn WEAT3
+WEAT3: 
+ X: {'adam', 'todd', 'megan', 'jack', 'heather', 'nancy', 'fred', 'greg', 'shannon', 'crystal', 'emily', 'matthew', 'josh', 'paul', 'alan', 'rachel', 'wendy', 'roger', 'andrew', 'harry', 'frank', 'amber', 'ryan', 'justin', 'jonathan', 'chip', 'ian', 'brad', 'peter', 'ellen', 'sara', 'donna', 'amanda', 'lauren', 'stephen', 'brandon', 'katie', 'stephanie', 'sue'}
+ Y: {'alphonse', 'shanise', 'malik', 'theo', 'lerone', 'terrence', 'latonya', 'wardell', 'yolanda', 'yvette', 'alonzo', 'percell', 'latoya', 'tawanda', 'rashaun', 'lamont', 'jasmine', 'nichelle', 'tia', 'deion', 'leroy', 'lakisha', 'jamel', 'latisha', 'malika', 'tyree', 'marcellus', 'darnell', 'jerome', 'lavon', 'lamar', 'shereen', 'lashelle', 'sharise', 'ebony', 'tanisha', 'tyrone', 'lionel', 'torrance'}
+ A: {'miracle', 'pleasure', 'gift', 'loyal', 'sunrise', 'freedom', 'paradise', 'rainbow', 'diamond', 'heaven', 'lucky', 'friend', 'love', 'diploma', 'happy', 'caress', 'peace', 'cheer', 'vacation', 'health', 'honor', 'gentle', 'honest', 'family', 'laughter'}
+ B: {'poverty', 'rotten', 'assault', 'cancer', 'grief', 'abuse', 'accident', 'hatred', 'stink', 'divorce', 'jail', 'sickness', 'filth', 'bomb', 'poison', 'vomit', 'tragedy', 'kill', 'murder', 'ugly', 'pollute', 'evil', 'death', 'disaster', 'crash'}
+
+
+(0.9185299551667798, 0.0, 0.9118830903858313, 0.0)
+WEAT3 complete

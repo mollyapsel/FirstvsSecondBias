@@ -1,0 +1,11 @@
+Total words:  519614534
+Unique words:  4119391
+WEAT5: 
+ X: {'anne', 'laurie', 'todd', 'geoffrey', 'jill', 'emily', 'meredith', 'brendan', 'matthew', 'sarah', 'greg', 'brett', 'neil', 'carrie', 'kristen', 'brad', 'allison', 'jay'}
+ Y: {'tamika', 'aisha', 'tremayne', 'lakisha', 'darnell', 'rashee', 'tyrone', 'hakim', 'kareem', 'jermaine', 'jamal', 'tanisha', 'leroy', 'kenya', 'keisha', 'ebony', 'latoya', 'latonya'}
+ A: {'wonderful', 'pleasure', 'joy', 'friend', 'love', 'peace', 'laughter', 'happy'}
+ B: {'awful', 'terrible', 'nasty', 'war', 'evil', 'agony', 'horrible', 'failure'}
+
+
+(-0.06603005821697897, 0.569, 0.6731461458000592, 0.028)
+WEAT5 complete

@@ -1,0 +1,9 @@
+WEAT3: 
+ X: {'ryan', 'andrew', 'katie', 'stephen', 'peter', 'rachel', 'heather', 'adam', 'courtney', 'melanie', 'greg', 'frank', 'harry', 'roger', 'jonathan', 'colleen', 'betsy', 'emily', 'kristin', 'paul', 'stephanie', 'megan', 'ellen', 'alan', 'justin', 'matthew', 'lauren', 'josh', 'jack', 'amanda', 'brad', 'nancy'}
+ Y: {'darnell', 'lamar', 'lakisha', 'tyree', 'latisha', 'jamel', 'nichelle', 'torrance', 'tia', 'shaniqua', 'leroy', 'alonzo', 'lavon', 'alphonse', 'tyrone', 'jerome', 'ebony', 'jasmine', 'deion', 'lamont', 'latoya', 'shereen', 'terrence', 'yvette', 'lionel', 'wardell', 'malik', 'tanisha', 'malika', 'marcellus', 'theo', 'yolanda'}
+ A: {'friend', 'rainbow', 'sunrise', 'laughter', 'diploma', 'love', 'vacation', 'caress', 'diamond', 'lucky', 'gentle', 'peace', 'loyal', 'gift', 'honest', 'freedom', 'miracle', 'happy', 'paradise', 'heaven', 'health', 'pleasure', 'cheer', 'honor', 'family'}
+ B: {'disaster', 'cancer', 'grief', 'crash', 'divorce', 'jail', 'bomb', 'accident', 'rotten', 'poison', 'filth', 'murder', 'evil', 'death', 'pollute', 'sickness', 'vomit', 'abuse', 'poverty', 'assault', 'tragedy', 'kill', 'stink', 'hatred', 'ugly'}
+
+
+(-0.10076888525409784, 0.681, 0.9415546274299341, 0.0)
+WEAT3 complete

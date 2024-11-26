@@ -1,0 +1,9 @@
+WEAT8: 
+ X: {'physics', 'science', 'einstein', 'experiment', 'technology', 'chemistry', 'nasa', 'astronomy'}
+ Y: {'literature', 'poetry', 'novel', 'drama', 'symphony', 'art', 'shakespeare', 'dance'}
+ A: {'uncle', 'grandfather', 'father', 'brother', 'son', 'he', 'his'}
+ B: {'daughter', 'aunt', 'she', 'her', 'grandmother', 'sister', 'mother'}
+
+
+(1.3864973822318665, 0.0, -0.13393585142621706, 0.59)
+WEAT8 complete

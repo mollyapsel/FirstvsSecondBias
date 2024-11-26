@@ -1,0 +1,11 @@
+Done preprocessing
+Total words in part 1:  2581572
+Unique words in part 1:  57004
+Total words in part 2:  2582369
+Unique words in part 2:  57132
+OOV: azalea WEAT1
+OOV: peony WEAT1
+OOV: gladiola WEAT1
+OOV: bedbug WEAT1
+['bluebell', 'rise', 'marigold', 'iris', 'lilac', 'carnation', 'magnolia', 'violet', 'aster', 'petunia', 'daisy', 'orchid', 'zinnia', 'poppy', 'pansy', 'hyacinth', 'crocus', 'tulip', 'buttercup', 'lily', 'clover', 'daffodil']
+['dragonfly', 'horsefly', 'spider', 'hornet', 'gnat', 'wasp', 'bee', 'roach', 'cockroach', 'mosquito', 'moth', 'fly', 'caterpillar', 'tarantula', 'beetle', 'termite', 'flea', 'maggot', 'locust', 'ant', 'cricket', 'centipede', 'weevil']

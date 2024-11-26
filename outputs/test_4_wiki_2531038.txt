@@ -1,0 +1,9 @@
+WEAT4: 
+ X: {'anne', 'greg', 'laurie', 'sarah', 'carrie', 'jill', 'neil', 'allison', 'meredith', 'matthew', 'brett', 'emily', 'todd', 'geoffrey', 'brad', 'brendan'}
+ Y: {'ebony', 'keisha', 'tanisha', 'aisha', 'hakim', 'tyrone', 'latoya', 'jermaine', 'rashee', 'jamal', 'kenya', 'darnell', 'leroy', 'lakisha', 'tamika', 'kareem'}
+ A: {'diamond', 'miracle', 'freedom', 'honest', 'gentle', 'gift', 'peace', 'laughter', 'vacation', 'sunrise', 'love', 'health', 'cheer', 'friend', 'diploma', 'paradise', 'family', 'happy', 'honor', 'loyal', 'rainbow', 'caress', 'heaven', 'pleasure', 'lucky'}
+ B: {'filth', 'vomit', 'bomb', 'evil', 'stink', 'divorce', 'sickness', 'poison', 'hatred', 'grief', 'death', 'kill', 'cancer', 'disaster', 'poverty', 'assault', 'crash', 'ugly', 'rotten', 'murder', 'pollute', 'abuse', 'accident', 'jail', 'tragedy'}
+
+
+(0.07408475841277096, 0.41, 0.6942862045510486, 0.016)
+WEAT4 complete

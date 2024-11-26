@@ -1,0 +1,9 @@
+WEAT6: 
+ X: {'greg', 'mike', 'john', 'steve', 'jeff', 'kevin', 'paul', 'bill'}
+ Y: {'donna', 'joan', 'lisa', 'diana', 'sarah', 'ann', 'kate', 'amy'}
+ A: {'corporation', 'salary', 'office', 'executive', 'professional', 'career', 'management', 'business'}
+ B: {'wedding', 'parent', 'relative', 'child', 'family', 'marriage', 'cousin', 'home'}
+
+
+(1.858675246386566, 0.0, 1.1402709967072806, 0.013)
+WEAT6 complete

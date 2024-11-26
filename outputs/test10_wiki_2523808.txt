@@ -1,0 +1,9 @@
+WEAT10: 
+ X: {'michelle', 'tiffany', 'eric', 'cindy', 'kristy', 'brad', 'billy', 'joey'}
+ Y: {'wilbert', 'edgar', 'cecil', 'ethel', 'bernice', 'mortimer', 'gertrude', 'agnes'}
+ A: {'wonderful', 'happy', 'love', 'joy', 'laughter', 'friend', 'peace', 'pleasure'}
+ B: {'horrible', 'war', 'awful', 'evil', 'failure', 'nasty', 'terrible', 'agony'}
+
+
+(-0.29116866019331117, 0.68, 0.3410827237146139, 0.266)
+WEAT10 complete
